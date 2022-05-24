@@ -7,6 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Joplin-CLI 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
 "Last-Translator: MHolkamp <mholkamp@users.noreply.github.com>\n"
 "Language-Team: Dutch / Nederlands\n"
 "Language: nl_NL\n"
@@ -277,9 +279,8 @@ msgid "Advanced options"
 msgstr "Geavanceerde opties"
 
 #: packages/app-desktop/gui/StatusScreen/StatusScreen.tsx:175
-#, fuzzy
 msgid "Advanced tools"
-msgstr "Geavanceerde opties"
+msgstr "Extra opties"
 
 #: packages/app-desktop/gui/Sidebar/Sidebar.tsx:450
 #: packages/app-mobile/components/screens/notes.js:188
@@ -296,9 +297,8 @@ msgid "Also displays unset and hidden config variables."
 msgstr "Toont ook niet-ingestelde en verborgen configuratiewaarden."
 
 #: packages/app-desktop/gui/ShareNoteDialog.tsx:203
-#, fuzzy
 msgid "Also publish linked notes"
-msgstr "Publicatie van notitie intrekken"
+msgstr "Ook gepubliceerde notities"
 
 #: packages/lib/models/Setting.ts:713
 msgid "Always"
@@ -867,18 +867,16 @@ msgstr ""
 "Probeer het opnieuw wanneer u verbonden bent met internet."
 
 #: packages/app-desktop/gui/PromptDialog.min.js:235
-#, fuzzy
 msgid "Create"
-msgstr "Gecreëerd"
+msgstr "Maak"
 
 #: packages/app-mobile/components/note-list.js:101
 msgid "Create a notebook"
-msgstr "Creëer een notitieboek"
+msgstr "Maak een notitieboek"
 
 #: packages/app-desktop/gui/MainScreen/commands/addProfile.ts:9
-#, fuzzy
 msgid "Create new profile..."
-msgstr "Creëert een nieuwe notitie."
+msgstr "Maak een nieuwe notitie."
 
 #: packages/app-desktop/gui/EditFolderDialog/Dialog.tsx:161
 msgid "Create notebook"
@@ -890,53 +888,53 @@ msgstr "Maak gebruiker aan"
 
 #: packages/app-desktop/gui/NotePropertiesDialog.min.js:29
 msgid "Created"
-msgstr "Gecreëerd"
+msgstr "Gemaakt"
 
 #: packages/lib/models/Note.ts:39
 msgid "created date"
-msgstr "gecreëerd op"
+msgstr "gemaakt op"
 
 #: packages/lib/Synchronizer.ts:182
 msgid "Created local items: %d."
-msgstr "Lokale items gecreëerd: %d."
+msgstr "Lokale items gemaakt: %d."
 
 #: packages/lib/services/ReportService.ts:244
 msgid "Created locally"
-msgstr "Lokale items gecreëerd"
+msgstr "Lokaal gemaakt"
 
 #: packages/lib/Synchronizer.ts:184
 msgid "Created remote items: %d."
-msgstr "Externe items gecreëerd: %d."
+msgstr "Externe items gemaakt: %d."
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:152
 msgid "Created: "
-msgstr "Gecreëerd: "
+msgstr "Gemaakt: "
 
 #: packages/app-cli/app/command-import.js:48
 #: packages/app-desktop/gui/ImportScreen.min.js:69
 msgid "Created: %d."
-msgstr "Gecreëerd: %d."
+msgstr "Gemaakt: %d."
 
 #: packages/app-mobile/components/screens/encryption-config.tsx:118
 #: packages/app-mobile/components/screens/Note.tsx:847
 msgid "Created: %s"
-msgstr "Gecreëerd op: %s"
+msgstr "Gemaakt op: %s"
 
 #: packages/app-cli/app/command-mknote.js:12
 msgid "Creates a new note."
-msgstr "Creëert een nieuwe notitie."
+msgstr "Maakt een nieuwe notitie."
 
 #: packages/app-cli/app/command-mkbook.js:12
 msgid "Creates a new notebook."
-msgstr "Creëert een nieuw notitieboek."
+msgstr "Maakt een nieuw notitieboek."
 
 #: packages/app-cli/app/command-mktodo.js:12
 msgid "Creates a new to-do."
-msgstr "Creëert een nieuwe taak."
+msgstr "Maakt een nieuwe taak."
 
 #: packages/app-desktop/gui/NoteEditor/NoteTitle/NoteTitleBar.tsx:110
 msgid "Creating new %s..."
-msgstr "Bezig met creëren van nieuw(e) %s..."
+msgstr "Bezig met maken van nieuw(e) %s..."
 
 #: packages/app-mobile/components/screens/ConfigScreen.tsx:518
 msgid "Creating report..."
@@ -1356,9 +1354,8 @@ msgstr "Editor monospace lettertypefamilie"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:100
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:96
-#, fuzzy
 msgid "Editor: %s"
-msgstr "Editor"
+msgstr "Bewerker: %s"
 
 #: packages/app-cli/app/command-ls.js:31
 msgid "Either \"text\" or \"json\""
@@ -1672,9 +1669,8 @@ msgid "File system"
 msgstr "Bestandssysteem"
 
 #: packages/app-mobile/components/screens/NoteTagsDialog.js:190
-#, fuzzy
 msgid "Filter tags"
-msgstr "Nieuwe labels:"
+msgstr "Filter labels"
 
 #: packages/app-desktop/gui/ExtensionBadge.min.js:10
 msgid "Firefox Extension"
@@ -2801,6 +2797,8 @@ msgid ""
 "Please click on \"%s\" to proceed, or set the passwords in the \"%s\" list "
 "below."
 msgstr ""
+"Klik op \"%s\" om verder te gaan, of stel de wachtwoorden in de \"%s\" lijst "
+"hieronder in."
 
 #: packages/lib/components/EncryptionConfigScreen/utils.ts:65
 msgid ""
@@ -2962,9 +2960,8 @@ msgid "Profile"
 msgstr "Profiel"
 
 #: packages/app-desktop/gui/MainScreen/commands/addProfile.ts:17
-#, fuzzy
 msgid "Profile name:"
-msgstr "Profiel"
+msgstr "Profielnaam:"
 
 #: packages/lib/versionInfo.ts:26
 msgid "Profile Version: %s"
@@ -3193,9 +3190,8 @@ msgstr "Alarm opslaan"
 
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:100
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:93
-#, fuzzy
 msgid "Save as %s"
-msgstr "Opslaan als..."
+msgstr "Opslaan als %s"
 
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:80
 msgid "Save as..."
@@ -3565,20 +3561,18 @@ msgid "Switch between note and to-do type"
 msgstr "Schakel tussen notitie en taak"
 
 #: packages/app-desktop/gui/MenuBar.tsx:437
-#, fuzzy
 msgid "Switch profile"
-msgstr "Exporteer profiel"
+msgstr "Wissel profiel"
 
 #: packages/app-desktop/gui/utils/NoteListUtils.ts:105
 msgid "Switch to note type"
-msgstr "Overschakelen naar notitie-type"
+msgstr "Omzetten naar notitie-type"
 
 #: packages/app-desktop/commands/switchProfile1.ts:7
 #: packages/app-desktop/commands/switchProfile2.ts:7
 #: packages/app-desktop/commands/switchProfile3.ts:7
-#, fuzzy
 msgid "Switch to profile %d"
-msgstr "Overschakelen naar notitie-type"
+msgstr "Omzetten naar notitie-type"
 
 #: packages/app-desktop/gui/utils/NoteListUtils.ts:114
 msgid "Switch to to-do type"
@@ -3676,7 +3670,7 @@ msgstr "Tabloid"
 
 #: packages/app-mobile/components/screens/NoteTagsDialog.js:179
 msgid "tag1, tag2, ..."
-msgstr ""
+msgstr "label1, label2, ..."
 
 #: packages/app-cli/app/command-import.js:52
 #: packages/app-desktop/gui/ImportScreen.min.js:73
@@ -3719,7 +3713,7 @@ msgstr ""
 #: packages/app-desktop/app.ts:332
 msgid ""
 "The application did not close properly. Would you like to start in safe mode?"
-msgstr ""
+msgstr "De toepassing sloot niet goed af. Wilt u in de veilige modus starten?"
 
 #: packages/lib/onedrive-api-node-utils.js:86
 msgid ""
@@ -4577,9 +4571,8 @@ msgid "Your data is going to be re-encrypted and synced again."
 msgstr "Uw data wordt opnieuw versleuteld en gesynchroniseerd."
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:271
-#, fuzzy
 msgid "Your password is needed to decrypt some of your data."
-msgstr "Uw hoofdwachtwoord is nodig om sommige van uw gegevens te decoderen."
+msgstr "Uw wachtwoord is nodig om sommige van uw gegevens te decoderen."
 
 #: packages/app-cli/app/command-sync.ts:242
 msgid ""
